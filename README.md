@@ -1,6 +1,6 @@
 # 🧠📄 AI Research Paper Tutor
 
-> Upload any research paper and instantly get simplified summaries, flashcards, quizzes, mind maps, formula/diagram explanations, translations, and voice narration — powered by Gemini AI.
+> Upload any research paper of any author and instantly get simplified summaries, flashcards, quizzes, mind maps, formula/diagram explanations, translations, and voice narration — powered by Gemini AI.
 
 ## ✨ Features
 
